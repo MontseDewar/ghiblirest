@@ -16,7 +16,7 @@ It was centered on replicating Printerest' visual looks, that offers a similar e
 * **Google Fonts:** For custom fonts.
   
 ### Project Preview
-----pendiente----
+![DEMO](img-printerest/SS-ProjectPreview.jpg)
 
 ### Contact
 ...
