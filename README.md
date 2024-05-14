@@ -5,5 +5,10 @@ This project is a clone of Printerest' user interface only made with HTML5 and C
 It was centered on replicating Printerest' visual looks, that offers a similar experience of navigation with a responsive design and basic functionalities.
 
 ### Features
-* Responsive Designe: Adaptable to different screen sizes for an optimal _user experience_ on various devices (mobile and desktop)
-* Intuitive user interface: Inspired on Pinterest, with easy and accessible navigation
+* **Responsive Design:** Adaptable to different screen sizes for an optimal _user experience_ on various devices (mobile and desktop)
+* **Intuitive user interface:** Inspired on Pinterest, with easy and accessible navigation
+* **Interactive Design:**
+* Modern Iconography and Styles:
+
+### Used Technologies
+* **HTML5:**
